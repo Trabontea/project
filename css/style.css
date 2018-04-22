@@ -1,8 +1,20 @@
+html {
+    font-size: 10px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+body {
+    background-color: #212121;
+}
+
 
 .content {
     max-width: 960px;
     margin: 0 auto;
-    background-color: azure;
+    background-color: #81D4FA;
+    padding: 2rem;
+    border-radius: 0.5rem;
 }
 
 pre {
@@ -10,19 +22,27 @@ pre {
     font-family: monospace;
     white-space: pre;
     margin: 0;
-    padding: 1rem 0 0 0;
-    background-color: beige;
+    padding: 1rem 0.5rem;
+    background-color:#E0E0E0;
     color: black;
     font-weight: bold;
+    font-size: 1.4rem;
 }
 
 h1  {
-    color: blue;
+    color: #37474F;
+    text-align: center;
+    font-size: 3rem;
 }
 
 h2 {
-    color: blueviolet;
+    color: #FF3D00;
+    font-size: 2rem;
+
 }
 h3 {
-    color: red;
+    color: #DD2C00;
+    font-size: 1.6rem;
+    margin-top: 2rem;
+
 }
