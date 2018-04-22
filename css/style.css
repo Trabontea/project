@@ -44,5 +44,9 @@ h3 {
     color: #DD2C00;
     font-size: 1.6rem;
     margin-top: 2rem;
+}
 
+p {
+    font-size: 1.3rem;
+    font-weight: 400;
 }
